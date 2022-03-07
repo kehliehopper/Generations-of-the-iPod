@@ -6,10 +6,6 @@
 }
 body {
     background-color: #dd83b0b7;
+    font-family: 'Franklin Gothic Medium' ;
+    font-size: larger;
 }
-    body {
-        font-family: Arial;
-    }
-    body {
-        font-size: larger;
-    }
